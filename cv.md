@@ -53,8 +53,8 @@ Smoke, regression, sanity testing. Processing feedback from customers and extern
 *"Fundamental software testing", A1QA, software testing*
 
 ### Languages:
-Russian, Belarusian (native)
-English (B1)
+ * Russian, Belarusian (native)
+ * English (B1)
 
 
 [RSSchool](https://rs.school/js/)
