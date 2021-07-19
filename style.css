@@ -1,0 +1,42 @@
+.sections {
+	color: #707070;
+	margin: 20px;
+}
+
+.blocks {
+	background-color: #bababa;
+	padding: 10px 5px;
+	margin: 20px;
+}
+
+.param {
+	font-weight: bold;
+}
+
+main {
+	background-color: #ebebeb;
+	margin: 20px;
+	padding: 20px;
+}
+
+p {
+	margin: 20px;
+	font-size: 18px;
+    line-height: 10px;
+}
+
+li {
+	font-size: 16px;
+    line-height: 22px;
+}
+
+.tabulation {
+	margin: 20px;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 20px;
+}
